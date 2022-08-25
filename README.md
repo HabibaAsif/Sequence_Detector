@@ -1,0 +1,2 @@
+# Sequence Detector
+It is a multisim simulation of a mealy based sequence detecting machine .It will detect the correct sequences (1101 & 0110) and light the led bulb .On the wrong sequence the bulb will not glow.
